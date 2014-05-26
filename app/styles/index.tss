@@ -7,9 +7,11 @@
 "Label": {
 	width: Ti.UI.SIZE,
 	height: Ti.UI.SIZE,
-	color: "#FFF"
+	color: "#FFF",
+	bottom: '20dp'
 } 
 
 "Picker": {
-    color: "#AAA"
+    color: "yellow",
+    bottom: '20dp'
 }

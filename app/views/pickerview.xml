@@ -1,9 +1,10 @@
 <Alloy>
-	<View>
+	<View layout='vertical'>
 	    <Picker id='pk'>
 	        <PickerRow title="APPLE"/>
 	        <PickerRow title="COCONUT"/>
 	        <PickerRow title="BANANA"/> 
 	    </Picker>
+	    <TextField id="tf"></TextField>>
 	</View>
 </Alloy>
