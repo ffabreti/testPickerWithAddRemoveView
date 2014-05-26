@@ -1,0 +1,9 @@
+<Alloy>
+	<View>
+	    <Picker id='pk'>
+	        <PickerRow title="APPLE"/>
+	        <PickerRow title="COCONUT"/>
+	        <PickerRow title="BANANA"/> 
+	    </Picker>
+	</View>
+</Alloy>
